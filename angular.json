@@ -28,7 +28,8 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              "src/images"
             ],
             "styles": [
               "src/styles.scss"
@@ -127,5 +128,8 @@
       }
     }
   },
-  "defaultProject": "constructionsite"
+  "defaultProject": "constructionsite",
+  "cli": {
+    "analytics": "878213e3-c481-40a8-beba-d309f674fd30"
+  }
 }
